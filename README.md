@@ -2,8 +2,8 @@
 
 Director of Engineering. I ship AI products, grow engineers, and build at the intersection of design and code. Started as a designer. Still think like one.
 
-🤖 Agentic systems, MCP, RAG, fine-tuning, AI tools, LLM-powered experiences
-🎨 TypeScript, React, Next.js, Remix, WebGL, Tailwind, Design Systems, Figma
+🤖 Agentic systems, MCP, RAG, fine-tuning, AI tools, LLM-powered experiences  
+🎨 TypeScript, React, Next.js, Remix, WebGL, Tailwind, Design Systems, Figma  
 ⚙️ Node.js, Python, Typescript, GCP, AWS, Elasticsearch, MongoDB, Vector Search
 
 Six 0-to-1 AI products shipped in production. $2M+ in commercial impact last quarter.
