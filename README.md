@@ -2,4 +2,4 @@
 🎨 TypeScript, React, Next.js, Remix, WebGL, Tailwind, Design Systems, Figma  
 ⚙️ Node.js, Python, Typescript, GCP, AWS, Elasticsearch, MongoDB, Vector Search
 
-Six 0-to-1 AI products shipped in production. $2M+ in commercial impact last quarter.
+Six 0-to-1 AI products shipped in production.
